@@ -80,7 +80,31 @@ a {
     padding-left: 30px;
    
 }
+ .ancestor {
+ text-align: center;
+ padding-top: 40px;
+ font-size: 45px;
+ 
+}
 
+
+.flex-contenitor {
+  height: 500px;
+  padding: 16px;
+  background: white;
+  border: 4px solid white;
+  display: flex;
+  justify-content: space-around;
+ 
+}
+
+.box{
+  width: 250px;
+  height: 250px;
+  border: 10px solid rgb(0, 0, 0);
+  background: skyblue;
+  border-radius: 10px;
+}
 
 
 
