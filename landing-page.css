@@ -1,0 +1,39 @@
+.flex-container {
+    display: flex;
+    align-items: flex-start;
+     background-color: gray;
+   flex: 1 1 auto;
+   padding-top: 30px;
+   border: 4px solid black;
+
+    
+   
+
+}
+
+.flex-container .header-logo {
+    color: white;
+    padding-left: 200px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.header-links {
+    margin-left: auto;
+    display: flex;
+    gap: 30px;
+    padding-right: 250px;
+    
+    
+}
+
+.flex-container {
+   
+    background-color: gray;
+   flex: 1 1 auto;
+   height: 500px;
+}
+
+a {
+    color: white;
+}
